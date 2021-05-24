@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring-boot-flyway" />
+        <module name="spring-redis-cache" />
+        <module name="spring-mongo-rest-api" />
+        <module name="spring-elastiksearch" />
+        <module name="spring-datajpa-postgresql" />
+        <module name="spring-boot-graphql" />
+        <module name="spring-boot-rest-template" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="spring-boot-aop" target="1.8" />
+      <module name="spring-boot-api-doc" target="1.8" />
+      <module name="spring-boot-exception-handling" target="1.8" />
+      <module name="spring-boot-hazelcast-cache" target="13" />
+      <module name="spring-boot-starter-parent" target="8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="spring-boot-aop" options="-parameters" />
+      <module name="spring-boot-api-doc" options="-parameters" />
+      <module name="spring-boot-exception-handling" options="-parameters" />
+      <module name="spring-boot-flyway" options="-parameters" />
+      <module name="spring-boot-graphql" options="-parameters" />
+      <module name="spring-boot-hazelcast-cache" options="-parameters" />
+      <module name="spring-boot-rest-template" options="-parameters" />
+      <module name="spring-datajpa-postgresql" options="-parameters" />
+      <module name="spring-elastiksearch" options="-parameters" />
+      <module name="spring-mongo-rest-api" options="-parameters" />
+      <module name="spring-redis-cache" options="-parameters" />
+    </option>
+  </component>
+</project>

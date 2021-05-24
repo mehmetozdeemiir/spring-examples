@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/spring-boot-aop/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-api-doc/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-api-doc/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-flyway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-flyway/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-graphql/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-graphql/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-rest-template/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-rest-template/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-datajpa-postgresql/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-datajpa-postgresql/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-elastiksearch/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-elastiksearch/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-mongo-rest-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-mongo-rest-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-redis-cache/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-redis-cache/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
